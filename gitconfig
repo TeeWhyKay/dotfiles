@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yongkee.t@gmail.com
+	name = Yong Kee
